@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <iostream>
 #include <string>
@@ -48,3 +50,12 @@ double pib(const Paisos& p, char c, double d){
   return suma;
 }
 
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

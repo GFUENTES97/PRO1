@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 
 using namespace std;
@@ -41,3 +43,11 @@ else if(totes) cout << "totes xules" << endl;
 else cout << "cap de xula" << endl;
 
 }
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

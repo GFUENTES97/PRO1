@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 
@@ -26,3 +28,11 @@ bool es_simetrica(const Matriu& m){
 
 
 int main(){}
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

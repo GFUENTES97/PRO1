@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -47,7 +49,7 @@ bool quadrat_magic(const vector< vector<int> >& t) {
 		--i;
 	}
 	if (suma != aux_comp) return false;
-	//Tots els nombres fins a n²
+	//Tots els nombres fins a nï¿½
 	for (int k = 1; k <= tam*tam; ++k) {
 		bool found = false;
 		for (i = 0; i < tam && not found; ++i) {
@@ -60,3 +62,12 @@ bool quadrat_magic(const vector< vector<int> >& t) {
 	//Tot correcte
 	return true;
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 using namespace std;
 
@@ -10,7 +12,7 @@ bool es_de_hamming(int x) {
         else return false;
 }
 
-//Pre: Llegeix una seqüència de naturals
+//Pre: Llegeix una seqï¿½ï¿½ncia de naturals
 //Post: Per cada n escriu els n primers nombres de Hamming
 int main() {
         int n;
@@ -31,3 +33,12 @@ int main() {
                 cout << endl;
         }
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

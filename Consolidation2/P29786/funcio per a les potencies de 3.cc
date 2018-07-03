@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 
 
@@ -24,3 +26,11 @@ int n;
 cin >> n;
 cout << es_potencia_de_3(n) << endl;
 }
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

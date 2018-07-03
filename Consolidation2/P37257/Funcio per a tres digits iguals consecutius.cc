@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 
 using namespace std;
@@ -19,3 +21,12 @@ int main()
   cout << tres_digits_seguits_iguals(n,b) << endl;
 
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

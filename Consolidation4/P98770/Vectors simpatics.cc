@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -12,7 +14,7 @@ void llegir_vector(vector<double>& v, int n){
 
 void calcula_posicions (const vector<double>& v, int& p, int& q, int n){
 	
-	p=1;  //PRE: EL VALOR MÉS GRAN MAI ÉS A LA PRIMERA POSICIÓ
+	p=1;  //PRE: EL VALOR Mï¿½S GRAN MAI ï¿½S A LA PRIMERA POSICIï¿½
 	q=0;
 	if(n>2){   //SI N==2 => P=1 & Q=0
 		
@@ -67,3 +69,12 @@ int main() {
 	
 }
 
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

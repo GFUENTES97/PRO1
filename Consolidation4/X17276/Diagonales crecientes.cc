@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -69,3 +71,12 @@ int main() {
                 else if (not increasing_d(M, f, c)) cout << "no" << endl;
         }
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <string>
 #include <cmath>
@@ -13,7 +15,7 @@ double distancia(double x1, double y1, double x2, double y2) {
 }
 
 //Pre: Llegeix diferents punts d'un trajecte
-//Post: Escriu la distància del recorregut
+//Post: Escriu la distï¿½ncia del recorregut
 int main() {
         cout.setf(ios::fixed);
         cout.precision(4);
@@ -39,3 +41,12 @@ int main() {
                 cout << "Trajecte " << ruta << ": " << t << endl;
         }
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

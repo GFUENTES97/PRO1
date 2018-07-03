@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 
 using namespace std;
@@ -8,8 +10,8 @@ int main()
 
    while (cin >> n){
 
-    p = n; // IRÁ INCREMENTANDO DE DOS EN DOS (EQUIS)
-    q = n - 1; // IRÁ DECREMENTANDO DE UNO EN UNO (ESPACIOS)
+    p = n; // IRï¿½ INCREMENTANDO DE DOS EN DOS (EQUIS)
+    q = n - 1; // IRï¿½ DECREMENTANDO DE UNO EN UNO (ESPACIOS)
 
         for (int a = 0; a<n; a++){
 
@@ -30,7 +32,7 @@ int main()
         q = 1;
         for (int d = 1; d<n; d++){
             for(int e = 0; e<p; e++){
-                cout << "X";                       // CUANDO LLEGUE A LA FILA DEL MEDIO HABRÁN TANTAS "X" COMO |p-2|
+                cout << "X";                       // CUANDO LLEGUE A LA FILA DEL MEDIO HABRï¿½N TANTAS "X" COMO |p-2|
             }
             cout << endl;                       // Y TANTAS FILAS COMO |n|
         }
@@ -56,3 +58,12 @@ cout << endl;
 
 
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

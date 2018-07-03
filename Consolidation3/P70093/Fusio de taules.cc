@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -40,3 +42,11 @@ vector<double> fusio(const vector<double>& v1, const vector<double>& v2) {
         }
         return fus;
 }
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */

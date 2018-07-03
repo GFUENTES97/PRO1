@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 //#include <string>
 #include <vector>
@@ -29,7 +31,7 @@ int habitants(const Paisos& p, double x){
     int cont = 0;
     int n = p.size();                   // n == NUMERO DE PAISES
     for(int i=0; i<n; i++){
-        int m = p[i].provs.size();        //  m == NUMERO DE PROVINCIAS DE CADA PAÍS
+        int m = p[i].provs.size();        //  m == NUMERO DE PROVINCIAS DE CADA PAï¿½S
         for(int j=0; j<m && cont<2 ; j++){
             if ( p[i].provs[j].pib <= x){
             cont++;
@@ -49,3 +51,12 @@ int habitants(const Paisos& p, double x){
 
     }
 
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:46:07
+ * 
+ */
